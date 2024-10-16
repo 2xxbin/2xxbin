@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2xxbin&count_bg=%2399AEE1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+Visiter&edge_flat=false"/></a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br/><br/>
+
+<div align="center">
   <h2>My Skils Are</h2>
   <div>
     <img src="https://img.shields.io/badge/typescript-a?style=for-the-badge&logo=typescript&logoColor=ffffff&color=007acc">
@@ -37,7 +39,9 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br/><br/>
+
+<div align="center">
   <h2>I'm Learning</h2>
   <div>
     <img src="https://img.shields.io/badge/c%23-a?style=for-the-badge&logo=c&logoColor=ffffff&color=685ae6">
@@ -45,23 +49,30 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br/><br/><br/><br/>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=2xxbin&show_icons=true&theme=radical" alt="2xxbin's GitHub stats"/>
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<br/><br/>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=2xxbin&repo=2xbin-Mirivoice-TTS" alt="2xxbin-Mirivoice-TTS"/>
   </a>
+</div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=2xxbin&repo=diffsinger-chinese-support" alt="diffsinger-chinese-support"/>
   </a>
 </div>
 
+<br/><br/>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center">
   <h1>Contact</h1>
   <div>
     <img src="https://img.shields.io/badge/E--Mail-a?style=flat&logo=mailboxdotorg&logoColor=f7f7f7&color=%236a5fcf">

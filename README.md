@@ -45,10 +45,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-
----
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=2xxbin&show_icons=true&theme=radical" alt="2xxbin's GitHub stats"/>
   </a>

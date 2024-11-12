@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2xxbin&repo=diffsinger-chinese-support" alt="diffsinger-chinese-support"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=2xxbin&repo=UTAU-korean-CMPX" alt="UTAU-korean-CMPX"/>
   </a>
 </div>
 

@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="center">
   <h1>Hello, World!</h1>
   <p>I am <b>2xxbin</b>, and I develop and contribute to various programs.</p>
@@ -22,6 +21,14 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2xxbin&count_bg=%2399AEE1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today+Visiter&edge_flat=false"/></a>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/2xxbin"
+  width="600"
+  height="300"
+/>
+</a>
 
 <br/><br/>
 
